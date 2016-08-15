@@ -1,0 +1,6 @@
+[package]
+name = "upsearch"
+version = "0.1.0"
+authors = ["Andrew Thorburn <nzipsi@gmail.com>"]
+
+[dependencies]
