@@ -1,0 +1,3 @@
+langauge: rust
+rust:
+  - 1.10.0
